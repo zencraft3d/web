@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zencraft3d.github.io/web/sitemap.xml
